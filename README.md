@@ -6,3 +6,4 @@ The growth of BASE has been impressive.
 Faster onboarding, strong community, and a builder-friendly environment make it exciting to follow.
 BASE is creating more opportunities for developers and users alike.
 Excited to see how the ecosystem evolves in the coming months.
+One of the things I appreciate about BASE is its focus on making blockchain technology more accessible for builders and everyday users.
