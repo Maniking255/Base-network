@@ -14,3 +14,4 @@ The strength of any ecosystem comes from its community.
 BASE has been steadily building an environment where innovation can thrive.
 Excited to see more projects launching on BASE.
 The ecosystem keeps growing, and it's great to watch new ideas take shape.
+The pace of development on BASE has been impressive.
