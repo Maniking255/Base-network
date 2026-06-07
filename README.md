@@ -10,3 +10,4 @@ One of the things I appreciate about BASE is its focus on making blockchain tech
 It's always encouraging to see an ecosystem that continues to attract developers, creators, and new ideas.
 BASE is moving in an interesting direction.
 BASE is proving that strong infrastructure and an active builder community can create long-term value for the entire ecosystem.
+The strength of any ecosystem comes from its community.
