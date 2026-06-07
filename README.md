@@ -11,3 +11,4 @@ It's always encouraging to see an ecosystem that continues to attract developers
 BASE is moving in an interesting direction.
 BASE is proving that strong infrastructure and an active builder community can create long-term value for the entire ecosystem.
 The strength of any ecosystem comes from its community.
+BASE has been steadily building an environment where innovation can thrive.
